@@ -11,7 +11,7 @@
       3.HTML и CSS </h4>
 ** Пример кода **
 <h5><html lang="en">
-  <head>
+  <head>Изображение 10
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Aplica Print</title>
@@ -21,7 +21,7 @@
 <h6> пока нет </h6>
 ** Обучение и курсы **
 <h7>1. Видеокурс CS50
-2. Видеокурсы JS, CSS, HTML, Git на YouTube-канале Богдана Стащука
+2. Видеокурсы JS, CSS, HTML, Git на YouTube-канале Бoгдана Стащука
 </h7>
 ** Язык **
 <h8> я не знаю свой уровень английского </h8>

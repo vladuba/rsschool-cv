@@ -9,12 +9,13 @@
 *  2. С++
       3.HTML и CSS *
 <h5> Пример кода </h5>
-* <html lang="en">
-  <head>Изображение 10
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Aplica Print</title>
-    <link/> *
+* let guestList = `Guests:
+ * John
+ * Pete
+ * Mary
+`;
+
+alert(guestList); // список гостей, состоящий из нескольких строк *
 <h6> Опыт рабoты </h6>
 * пока нет *
 <h7> Обучение и курсы </h7>

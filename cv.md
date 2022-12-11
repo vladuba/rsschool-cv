@@ -10,11 +10,9 @@
       3.HTML и CSS *
 <h5> Пример кода </h5>
 * let str = `Hello`;
-
 // получаем первый символ
 alert( str[0] ); // H
 alert( str.at(0) ); // H
-
 // получаем последний символ
 alert( str[str.length - 1] ); // o
 alert( str.at(-1) ); *
